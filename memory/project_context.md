@@ -48,7 +48,7 @@ Time/compute both nearly maxed out (199s of 1000s, 2.67M of 3M GFLOPs) — large
 Smaller/faster model that preserves F1 can beat 0.71 easily.
 
 ## Team & Timeline
-- 3 people total (Jacob + 2 others)
+- 3 people total (Jacob, Raghav, ian)
 - Due ~2026-11-25
 - Compute: **Colab free only** (T4 GPU, 16 GB VRAM, sessions can die)
 
